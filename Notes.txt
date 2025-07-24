@@ -1,0 +1,5 @@
+Convert for upload
+
+Read excel in "Finalize For upload\input\"
+rename to, find Gnr (example G002611), "G002611 - Compass Upload", Gnr is dynamic ofcourse. If gnr cant be found in file name, then search in the excel file itself
+Then add a copy to  Finalize For upload\output\ and also add to "\\cwcurdcfsp02\Compass\prod\Interface\PortalUpdate\"
